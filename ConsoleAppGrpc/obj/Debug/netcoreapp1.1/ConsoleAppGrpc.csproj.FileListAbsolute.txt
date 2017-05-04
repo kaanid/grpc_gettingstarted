@@ -1,0 +1,11 @@
+d:\用户目录\我的文档\visual studio 2017\Projects\ConsoleAppGrpc\ConsoleAppGrpc\bin\Debug\netcoreapp1.1\ConsoleAppGrpc.deps.json
+d:\用户目录\我的文档\visual studio 2017\Projects\ConsoleAppGrpc\ConsoleAppGrpc\bin\Debug\netcoreapp1.1\ConsoleAppGrpc.runtimeconfig.json
+d:\用户目录\我的文档\visual studio 2017\Projects\ConsoleAppGrpc\ConsoleAppGrpc\bin\Debug\netcoreapp1.1\ConsoleAppGrpc.runtimeconfig.dev.json
+d:\用户目录\我的文档\visual studio 2017\Projects\ConsoleAppGrpc\ConsoleAppGrpc\bin\Debug\netcoreapp1.1\ConsoleAppGrpc.dll
+d:\用户目录\我的文档\visual studio 2017\Projects\ConsoleAppGrpc\ConsoleAppGrpc\obj\Debug\netcoreapp1.1\ConsoleAppGrpc.csprojResolveAssemblyReference.cache
+d:\用户目录\我的文档\visual studio 2017\Projects\ConsoleAppGrpc\ConsoleAppGrpc\obj\Debug\netcoreapp1.1\ConsoleAppGrpc.AssemblyInfo.cs
+D:\用户目录\我的文档\Visual Studio 2017\Projects\ConsoleAppGrpc\ConsoleAppGrpc\bin\Debug\netcoreapp1.1\ConsoleAppGrpc.pdb
+D:\用户目录\我的文档\Visual Studio 2017\Projects\ConsoleAppGrpc\ConsoleAppGrpc\obj\Debug\netcoreapp1.1\ConsoleAppGrpc.dll
+D:\用户目录\我的文档\Visual Studio 2017\Projects\ConsoleAppGrpc\ConsoleAppGrpc\obj\Debug\netcoreapp1.1\ConsoleAppGrpc.pdb
+D:\用户目录\我的文档\Visual Studio 2017\Projects\ConsoleAppGrpc\ConsoleAppGrpc\bin\Debug\netcoreapp1.1\grpctest.dll
+D:\用户目录\我的文档\Visual Studio 2017\Projects\ConsoleAppGrpc\ConsoleAppGrpc\bin\Debug\netcoreapp1.1\grpctest.pdb

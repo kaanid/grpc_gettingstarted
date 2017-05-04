@@ -1,0 +1,31 @@
+﻿syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "grpctest";
+option java_outer_classname = "HelloProto";
+option objc_class_prefix = "RTG";
+
+
+package grpctest;
+
+// Interface exported by the server.
+service helloMessage {
+  rpc GetFeature(Hi) returns (Hi) {}
+  rpc ListPersons(stream Persions) returns (Persions){}
+  rpc ListPerson2(Persion) returns (stream Persion){}
+  rpc ListPerson3(stream Persion) returns (Persion){}
+  rpc ListPerson4(stream Persion) returns (stream Persion){}
+}
+
+message Hi {
+  int32 count = 1;
+  string say = 2;
+}
+
+message Persion {
+  string name=1;
+}
+
+message Persions {
+  repeated Persion list=1;
+}

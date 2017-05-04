@@ -1,0 +1,7 @@
+d:\用户目录\我的文档\visual studio 2017\Projects\ConsoleAppGrpc\grpctest\bin\Debug\netcoreapp1.1\grpctest.deps.json
+d:\用户目录\我的文档\visual studio 2017\Projects\ConsoleAppGrpc\grpctest\bin\Debug\netcoreapp1.1\grpctest.dll
+d:\用户目录\我的文档\visual studio 2017\Projects\ConsoleAppGrpc\grpctest\bin\Debug\netcoreapp1.1\grpctest.pdb
+d:\用户目录\我的文档\visual studio 2017\Projects\ConsoleAppGrpc\grpctest\obj\Debug\netcoreapp1.1\grpctest.AssemblyInfo.cs
+d:\用户目录\我的文档\visual studio 2017\Projects\ConsoleAppGrpc\grpctest\obj\Debug\netcoreapp1.1\grpctest.dll
+d:\用户目录\我的文档\visual studio 2017\Projects\ConsoleAppGrpc\grpctest\obj\Debug\netcoreapp1.1\grpctest.pdb
+d:\用户目录\我的文档\visual studio 2017\Projects\ConsoleAppGrpc\grpctest\obj\Debug\netcoreapp1.1\grpctest.csprojResolveAssemblyReference.cache
