@@ -7251,10 +7251,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\用户目录\\我的文档\\Visual Studio 2017\\Projects\\ConsoleAppGrpc\\grpctest\\grpctest.csproj",
+      "projectUniqueName": "d:\\用户目录\\我的文档\\visual studio 2017\\Projects\\ConsoleAppGrpc\\grpctest\\grpctest.csproj",
       "projectName": "grpctest",
-      "projectPath": "D:\\用户目录\\我的文档\\Visual Studio 2017\\Projects\\ConsoleAppGrpc\\grpctest\\grpctest.csproj",
-      "outputPath": "D:\\用户目录\\我的文档\\Visual Studio 2017\\Projects\\ConsoleAppGrpc\\grpctest\\obj\\",
+      "projectPath": "d:\\用户目录\\我的文档\\visual studio 2017\\Projects\\ConsoleAppGrpc\\grpctest\\grpctest.csproj",
+      "outputPath": "d:\\用户目录\\我的文档\\visual studio 2017\\Projects\\ConsoleAppGrpc\\grpctest\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

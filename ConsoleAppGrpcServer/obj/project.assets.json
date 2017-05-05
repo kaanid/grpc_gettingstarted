@@ -7266,10 +7266,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\用户目录\\我的文档\\Visual Studio 2017\\Projects\\ConsoleAppGrpc\\ConsoleAppGrpcServer\\ConsoleAppGrpcServer.csproj",
+      "projectUniqueName": "d:\\用户目录\\我的文档\\visual studio 2017\\Projects\\ConsoleAppGrpc\\ConsoleAppGrpcServer\\ConsoleAppGrpcServer.csproj",
       "projectName": "ConsoleAppGrpcServer",
-      "projectPath": "D:\\用户目录\\我的文档\\Visual Studio 2017\\Projects\\ConsoleAppGrpc\\ConsoleAppGrpcServer\\ConsoleAppGrpcServer.csproj",
-      "outputPath": "D:\\用户目录\\我的文档\\Visual Studio 2017\\Projects\\ConsoleAppGrpc\\ConsoleAppGrpcServer\\obj\\",
+      "projectPath": "d:\\用户目录\\我的文档\\visual studio 2017\\Projects\\ConsoleAppGrpc\\ConsoleAppGrpcServer\\ConsoleAppGrpcServer.csproj",
+      "outputPath": "d:\\用户目录\\我的文档\\visual studio 2017\\Projects\\ConsoleAppGrpc\\ConsoleAppGrpcServer\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -7277,8 +7277,8 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "D:\\用户目录\\我的文档\\Visual Studio 2017\\Projects\\ConsoleAppGrpc\\grpctest\\grpctest.csproj": {
-              "projectPath": "D:\\用户目录\\我的文档\\Visual Studio 2017\\Projects\\ConsoleAppGrpc\\grpctest\\grpctest.csproj"
+            "d:\\用户目录\\我的文档\\visual studio 2017\\Projects\\ConsoleAppGrpc\\grpctest\\grpctest.csproj": {
+              "projectPath": "d:\\用户目录\\我的文档\\visual studio 2017\\Projects\\ConsoleAppGrpc\\grpctest\\grpctest.csproj"
             }
           }
         }
